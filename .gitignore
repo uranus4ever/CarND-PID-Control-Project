@@ -4,3 +4,6 @@ tags
 .editorconfig
 /extra/*.mp4
 /extra/*.mkv
+*.webm
+/extra/*.txt
+*.jpeg
